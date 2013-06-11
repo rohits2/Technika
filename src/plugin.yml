@@ -1,0 +1,4 @@
+name: Technika
+main: me.FreeSpace2.Technika.Technika
+version: 7.0A
+softdepend: [ItemMenu, Vault]
